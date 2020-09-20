@@ -151,10 +151,15 @@ table {
 	margin: -4px 0 0;
 
 }
-section {
-	flex: 0 1 auto;
+.main__section {
+	flex: 0 1 784px;
 	background: #fff;
 }
+
+.main__section_box {
+	width: 784px;
+}
+
 .main__tittle {
 	font: 36px/42px Arial, Helvetica, sans-serif;
 	font-weight: bold;

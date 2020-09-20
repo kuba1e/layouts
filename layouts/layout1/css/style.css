@@ -114,7 +114,7 @@ table {
 	display: flex;
 	flex: 1 0 240px;
 	background: #d5c4b2;
-}
+ }
 .main__menu_list {
 	padding: 24px 54px 32px 32px;
 	width: 240px;
@@ -145,9 +145,13 @@ table {
 
 }
 
-section {
-	flex: 1 1 auto;
+.main__section {
+	flex: 1 1 1200px;
 	background: #fff;
+}
+
+.main__section_box {
+	width: 1200px;
 }
 .main__tittle {
 	font: 36px/42px Arial, Helvetica, sans-serif;

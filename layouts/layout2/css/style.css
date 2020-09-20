@@ -146,9 +146,13 @@ table {
 
 }
 
-section {
-	flex: 1 1 auto;
+.main__section {
+	flex: 1 1 784px;
 	background: #fff;
+}
+
+.main__section_box{
+	width: 784px;
 }
 .main__tittle {
 	font: 36px/42px Arial, Helvetica, sans-serif;

@@ -106,16 +106,16 @@ table {
 	border-bottom: 1px solid #d5c4b2;
 	color: #d5c4b2;
 }
-main {
+.main {
 	display: flex;
 	flex: 1 0 auto;
 }
-aside {
+.main__aside_menu {
 	display: flex;
 	flex: 1 0 240px;
 	background: #d5c4b2;
 }
-.main__aside_menu {
+.main__menu_list {
 	padding: 24px 54px 32px 32px;
 	width: 240px;
 

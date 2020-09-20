@@ -114,16 +114,16 @@ table {
 	border-bottom: 1px solid #d5c4b2;
 	color: #d5c4b2;
 }
-main {
+.main {
 	display: flex;
 }
-aside {
+.main__aside_menu {
 	flex: 0 0 240px;
 	align-self: flex-start;
 	background: #fff;
 	border-right: 1px solid #d5c4b2;
 }
-.main__aside_menu {
+.main__menu_list {
 	padding: 24px 54px 0 32px;
 	width: 240px;
 }

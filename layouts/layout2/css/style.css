@@ -110,7 +110,7 @@ table {
 	display: flex;
 	flex: 0 0 auto;
 }
-.main__aside_menu {
+.main__sidebar_menu {
 	display: flex;
 	flex: 1 0 240px;
 	background: #fff;
